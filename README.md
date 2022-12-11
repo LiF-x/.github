@@ -1,1 +1,1 @@
-# .github
+# Life Is Feudal: Extended (LiFx)
