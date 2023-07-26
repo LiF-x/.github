@@ -1,5 +1,7 @@
 # Life is Feudal: Extended (LiFx)
-<img src="https://img.shields.io/badge/LiFx%20Server%20-v4.0.1-green" title="Latest LiFx Server framework" /> <img src="https://img.shields.io/badge/LiFx%20Client%20-v3.0.0-blue" title="Latest LiFx Client framework" />
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLiF-x%2FServerAutoloader%2Freleases%3Fper_page%3D1&query=%24%5B0%5D.name&label=ServerAutoloader&color=green)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLiF-x%2FClientAutoloader%2Freleases%3Fper_page%3D1&query=%24%5B0%5D.name&label=ClientAutoloader&color=blue)
+
 
 Framework and mods for the game Life is Feudal: Your Own.
 Created to make modding the game easier for community members and server administrators.
