@@ -7,4 +7,4 @@
 Framework and mods for the game Life is Feudal: Your Own.
 Created to make modding the game easier for community members and server administrators.
 
-Active maintenance and development ended on the 23rd of July 2023 with the source code being released for both client and server frameworks. 
+Want to contribute? check out [Contributing](https://github.com/LiF-x/.github/blob/main/CONTRIBUTING.md).
